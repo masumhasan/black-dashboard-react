@@ -2,5 +2,8 @@
 /node_modules
 package-lock.json
 /build
-.vscode
 .eslintcache
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
